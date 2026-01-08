@@ -23,6 +23,7 @@ Examples:
 Sample `.env`:
 
 Use `env.sample` as a template and copy it to `.env`.
+Set `K8S_PROXY_NUM` to control nf-proxy replicas, and `IMAGE_OCID` if your deploy requires a custom image OCID.
 
 Deploy:
 
