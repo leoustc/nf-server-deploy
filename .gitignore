@@ -1,0 +1,10 @@
+.env
+.env.*
+.oci
+.oci/**
+# Kubernetes tooling
+.kube/
+.kube/**
+kubeconfig
+*.kubeconfig
+*.kubeconfig.*
